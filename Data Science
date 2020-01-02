@@ -1,0 +1,100 @@
+Machine learning + AI
+http://cs229.stanford.edu/syllabus.html Machine learning
+https://web.stanford.edu/class/cs229t/ Statistical learning theory
+https://web.stanford.edu/class/cs221/ AI: principles and techniques
+https://www.fast.ai/2019/01/24/course-v3/ Deep learning for coders
+http://deeplearningbook.org/ DL Bengio
+
+Probabilistic models
+https://cs.stanford.edu/~ermon/cs228/index.html Probabilistic graphical models
+https://www.coursera.org/specializations/probabilistic-graphical-models PGM specialization
+http://mbmlbook.com/toc.html Probabilistic
+
+Computer Vision
+http://vision.stanford.edu/teaching/cs131_fall1718/ Computer vision
+https://web.stanford.edu/class/cs231a/ 3D Computer vision
+http://vision.stanford.edu/teaching/cs231b_spring1415/ Cutting edge in computer vision
+http://vision.stanford.edu/teaching/cs231n/ Convolutional nets for computer vision
+http://vision.stanford.edu/teaching/cs331_winter14/ Advanced reading in computer vision
+http://web.stanford.edu/class/cs331b/ Representation learning in computer vision
+http://graphics.stanford.edu/courses/cs348a-17-winter/ Computer graphics geometry
+https://pjreddie.com/courses/computer-vision/ Computer Vision (not just AI)
+
+Natural Language Processing
+http://cs224d.stanford.edu/ Deep learning for NLP
+https://web.stanford.edu/class/cs124/ From languages to information
+http://www.stanford.edu/class/cs224u/ Natural language understanding
+http://web.stanford.edu/class/cs276/ Information retrieval and search
+
+Reinforcement Learning
+http://web.stanford.edu/class/cs234/schedule.html Reinforcement learning
+https://web.stanford.edu/class/aa229/cgi-bin/wp/ Sequential decision making
+http://web.stanford.edu/class/aa228/ Decision making under uncertainty
+https://optimaltransport.github.io/ OT
+https://arxiv.org/pdf/1806.09460.pdf RL as CT
+https://spinningup.openai.com/en/latest/index.html Spinning up with RL
+http://rail.eecs.berkeley.edu/deeprlcourse/ Deep Reinforcement Learning
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html UCL RL
+
+
+Robotics
+https://cs.stanford.edu/groups/manips/teaching/cs223a/ Introduction to robotics
+http://web.stanford.edu/class/cs225a/ Experimental robotics
+http://web.stanford.edu/class/cs326/index.html Topics in Advanced Robotic Manipulation
+https://cs.stanford.edu/groups/manips/teaching/cs327a/ Advanced Robotic Manipulation
+https://dorsa.fyi/cs333/ Safe and interactive robotics
+
+Logic
+http://logic.stanford.edu/classes/cs157/current/ Introduction to logic
+http://web.stanford.edu/class/cs257/ Logic and artificial intelligence
+https://cs.stanford.edu/~ermon/cs323/index.html Automated reasoning
+
+Biology
+https://web.stanford.edu/class/cs273a/ Human genome source code
+https://canvas.stanford.edu/courses/51037 Deep learning in genomics
+http://web.stanford.edu/class/cs279/ Computational biology
+https://web.stanford.edu/class/cs262/cgi-bin/index.php Computational genomics
+http://cs371.stanford.edu/ Computational biology in four dimensions
+http://web.stanford.edu/class/cs374/cgi-bin/2016/index.html Algorithms in biology
+http://cs522.stanford.edu/ Seminar in AI in healthcare
+
+Engineering + Development
+https://fullstackdeeplearning.com Full Stack Deep Learning
+https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit?fbclid=IwAR3wuEWrJ8suEgrXChHiTfi0c9JB0ND-A6uRL2z12UEQQi9tqk7zkUYB94M#slide=id.g43b8d8e880_0_18 and https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g4088956b04_6404_6 Good code
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/ From Python to NumPy
+http://web.stanford.edu/class/cs20si/syllabus.html Tensorflow for Deep learning research
+https://www.coursera.org/specializations/tensorflow-in-practice Tensorflow
+https://www.coursera.org/learn/agile-atlassian-jira/ Atlassian Jira
+https://github.com/donnemartin/system-design-primer System Design
+https://www.youtube.com/playlist?list=PLrCZzMib1e9ryE2N4xMHfbM0fWM8veVQ7 Business Analysis for Architects
+https://cloud.google.com/training/#certification Google Cloud Architect
+
+
+
+Mathematics and Foundations
+https://arxiv.org/pdf/1809.10756.pdf Introduction to Probabilistic Programming
+https://www.cs.cornell.edu/jeh/book.pdf Foundations of Data Science
+http://www.math.ias.edu/files/mathandcomp.pdf Mathematics and Computation
+http://probabilistic-numerics.org/ Rethinking Numerical Methods
+https://courses.csail.mit.edu/6.042/spring18/mcs.pdf Mathematics for Computer Science
+
+Visualization
+http://www.labri.fr/perso/nrougier/python-opengl/ OpenGL for visualization
+
+Other AI topics
+http://logic.stanford.edu/classes/cs227/2015/index.html General game playing
+https://web.stanford.edu/class/aa222/ Engineering design optimization
+http://web.stanford.edu/class/cs224w/ Social networks analysis
+https://web.stanford.edu/class/cs246/ Mining massive datasets
+http://web.stanford.edu/class/cs224w/ Graphs + https://habr.com/company/ods/blog/418727/ 
+http://ml4a.github.io/classes/itp-F18/ Creative
+https://www.automl.org/book/ + https://link.springer.com/book/10.1007%2F978-3-030-05318-5 AutoML book 
+https://christophm.github.io/interpretable-ml-book/ Interpretable AI (Ph.D. Student book)
+https://algorithmic-marketing.online/ Algorithmic Marketing
+https://designinformaticslab.github.io/_pages/teaching/mechdesign_index.html Mechanical design (optimization topics)
+https://leanprover.github.io/documentation/ Automated Theorem Proving
+
+Other sciences
+http://www.staff.science.uu.nl/~gadda001/goodtheorist/index.html Theoretical Physics Plan
+https://sharpc.livejournal.com/67583.html Computer Science Plan
+https://hbpms.blogspot.com/ Theoretical Mathematics Plan
